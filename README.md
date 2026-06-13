@@ -225,7 +225,7 @@ After a predefined delay, the system automatically restarts and resumes monitori
 
 Detailed project report:
 
-[📘 Project Report](docs/MP2_Report.pdf)
+[📘 Project Report](docs.pdf)
 
 ---
 
