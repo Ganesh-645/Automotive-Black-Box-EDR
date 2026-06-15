@@ -221,6 +221,12 @@ After a predefined delay, the system automatically restarts and resumes monitori
 
 ---
 
+## Results
+
+[Check results here](results/)
+
+---
+
 ## 📄 Documentation
 
 Detailed project report:
