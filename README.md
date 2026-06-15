@@ -96,7 +96,7 @@ The ESP32 acts as the central controller and interfaces with:
 
 ### Architecture Diagram
 
-![System Architecture](images/system_architecture.png)
+![System Architecture](images/system_architecture.jpeg)
 
 ---
 
@@ -185,19 +185,19 @@ After a predefined delay, the system automatically restarts and resumes monitori
 
 ### Hardware Setup
 
-![Hardware Setup](images/hardware_setup.jpg)
+![Hardware Setup](images/hardware_setup.jpeg)
 
 ### Local Dashboard
 
-![Dashboard](images/local_dashboard.png)
+![Dashboard](images/local_dashboard.jpeg)
 
 ### ThingsBoard Dashboard
 
-![ThingsBoard](images/thingsboard_dashboard.png)
+![ThingsBoard](images/thingsboard_dashboard.jpeg)
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.jpeg)
 
 ---
 
